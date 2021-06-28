@@ -1,0 +1,8 @@
+##the following code need to be tested how the flow will goes
+main()
+{
+a=5
+b=2
+swap = a,b
+print(a,b)
+}
